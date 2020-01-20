@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Mohammad Ariff",
+    "occupation":"Senior Full-Stack Engineer",
+    "description":"",
+    "image":"profilepic.jpeg",
+    "bio":"Hi, I’ve been a web developer since 2014. For the last 7 years, I specialized in front-end and single page application development. Last 3 years I work mostly in React projects. I have a Bachelor of Computer Science (BCS). I worked with a lot of libs as redux-form, redux-saga, redux-query, autoprefixer, etc. I love clean and maintainable code so always use ESlint and sass-lint. Strong Linux(shell) skills, experience with AWS, Apache, Azure and payment integration (Stripe and PayPal) and many backend APIs.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "muhadariff927@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"NO 12 BLOCK B SECTION 92A, JLN 1/89B OFF JALAN BESI",
+      "city":"KUALA LUMPUR",
+      "state":"KUALA LUMPUR",
+      "zip": "57100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhammad-ariff-36540118b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AngularMast",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"codesignal",
+        "url":"https://app.codesignal.com/profile/muhad_ariff",
+        "className":"fa fa-code"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/y7Lbqv4eFhqt",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universiti Sains Malaysia",
+        "degree":"Bachelor's of Computer Science",
+        "graduated":"April 2014",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Professional Freelancing Web Developer",
+        "title":"Full-Stack Developer",
+        "years":"February 2017 - Present",
+        "description":""
+      },
+      {
+        "company":"Sunway Group",
+        "title":"Frontend Engineer",
+        "years":"August 2014 - February 2017",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"100%"
+      },
+      {
+        "name":"VueJS",
+        "level":"80%"
+      },
+      {
+        "name":"D3",
+        "level":"70%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SmileConnect",
+        "category":"Canadian Dental Service",
+        "image":"image (1).png",
+        "url":"https://smileconnect.co"
+      },
+      {
+        "title":"WaypointBuilding",
+        "category":"Real Estate Saas Web Application",
+        "image":"image (4).png",
+        "url":"https://waypointbuilding.com/"
+      },
+      {
+        "title":"SpendWell",
+        "category":"(MVP Only) Website for donating organizations",
+        "image":"image (2).png",
+        "url":"https://app.spendwellapp.com/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"SponserPulse",
+        "category":"The most comprehensive sponsorship intelligence platform",
+        "image":"image (3).png",
+        "url":"https://www.sponsorpulseimi.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Thank so much for you quick and quality work!",
+        "user":"Alex Holt - Direct of Engineering, WaypointBuilding"
+      },
+      {
+        "text":"Ariff must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Dami Dina - Product Manager, SmileConnect"
+      }
+    ]
+  }
+}
