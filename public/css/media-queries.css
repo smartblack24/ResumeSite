@@ -99,6 +99,11 @@
 
    /* mobile navigation
    -------------------------------------------------------------------- */
+   .item-wrap a img {
+      width: 100%;
+      height: auto;
+   }
+   
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;

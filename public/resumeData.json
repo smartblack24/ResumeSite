@@ -20,12 +20,17 @@
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/muhammad-ariff-36540118b/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"https://github.com/AngularMast",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
+      },
+      {
+        "name":"codepen",
+        "url":"https://codepen.io/angularmast",
+        "className":"fab fa-codepen"
       },
       {
         "name":"codesignal",
@@ -35,7 +40,7 @@
       {
         "name":"skype",
         "url":"https://join.skype.com/invite/y7Lbqv4eFhqt",
-        "className":"fa fa-skype"
+        "className":"fab fa-skype"
       }
     ]
   },
@@ -117,8 +122,8 @@
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"image (5).png",
+        "url":"https://muhmmadariff.netlify.com/"
       },
       {
         "title":"SponserPulse",
