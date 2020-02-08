@@ -1,46 +1,50 @@
 {
   "main": {
-    "name":"Mohammad Ariff",
+    "name":"Giacomo Li",
     "occupation":"Senior Full-Stack Engineer",
     "description":"",
     "image":"profilepic.jpeg",
-    "bio":"Hi, I’ve been a web developer since 2014. For the last 7 years, I specialized in front-end and single page application development. Last 3 years I work mostly in React projects. I have a Bachelor of Computer Science (BCS). I worked with a lot of libs as redux-form, redux-saga, redux-query, autoprefixer, etc. I love clean and maintainable code so always use ESlint and sass-lint. Strong Linux(shell) skills, experience with AWS, Apache, Azure and payment integration (Stripe and PayPal) and many backend APIs.",
+    "bio":"I am an experienced web and mobile developer with 8+ years of work experience in web/mobile development",
+    "bio1":"As a senior front-end web developer, I have high skills in modern javascript frameworks such as React, Angular, Vue, and I have 4+ years of experience with React/React Native. Moreover, I can build a production-level iOS/Android app using React Native. In addition to building the frontend, I am also familiar with building the well-designed backend using Node, Django, GraphQL, Firebase.",
+    "bio2":"My main goal is to make good prospects for the company by working properly, professionally and efficiently. After many years of working under different situations, I have developed the skills required to effectively communicate, plan and manage projects. I maintain a healthy balance between user satisfaction and code quality in every project. While I built the project as a team member, I collaborate closely with other team members to plan, design, and develop robust solutions and also work flexibly in different time zone. I want to be involved in projects that I can be proud of and advance my development career.",
+    "bio3":"I want to be involved in projects that I can be proud of and advance my development career.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "muhadariff927@gmail.com",
+    "email": "giacomotag96@gmail.com",
     "phone": "",
     "address":{
-      "street":"NO 12 BLOCK B SECTION 92A, JLN 1/89B OFF JALAN BESI",
-      "city":"KUALA LUMPUR",
-      "state":"KUALA LUMPUR",
+      "street":"NO 12 BLOCK B SECTION 92A, JLN 1/89B OFF JALAN BESI", 
+      "city":"Toronto",
+      "state":"Ontario, Canada",
       "zip": "57100"
     },
-    "website": "https://muhmmadariff.netlify.com/",
-    "resumedownload":"https://drive.google.com/file/d/1Ds74Flv7b7UXPmG3IfbDfYPQHHdfrwtn/view",
+    "templateId": "template_0FHEgYVn",
+    "website": "https://giacomo.li.com/",
+    "resumedownload":"https://app.enhancv.com/share/ac6c6398?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/muhammad-ariff-36540118b/",
+        "url":"https://www.linkedin.com/in/giacomo-li-45274118b/",
         "className":"fab fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/AngularMast",
+        "url":"https://github.com/donicrazy",
         "className":"fab fa-github"
       },
       {
-        "name":"codepen",
-        "url":"https://codepen.io/angularmast",
-        "className":"fab fa-codepen"
-      },
-      {
         "name":"codesignal",
-        "url":"https://app.codesignal.com/profile/muhad_ariff",
+        "url":"https://app.codesignal.com/profile/giacomo_l3",
         "className":"fa fa-code"
       },
       {
         "name":"skype",
-        "url":"https://join.skype.com/invite/y7Lbqv4eFhqt",
+        "url":"https://join.skype.com/invite/ckOe0qZE5P4V",
         "className":"fab fa-skype"
+      },
+      {
+        "name":"mail",
+        "url":"mailto: giacomotag96@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
@@ -48,29 +52,81 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"Universiti Sains Malaysia",
-        "degree":"Bachelor's of Computer Science",
-        "graduated":"April 2014",
-        "description":""
+        "school":"McGill University",
+        "degree":"Bachelor's of Computer Application",
+        "graduated":"April 2010",
+        "description":"- Studying and Developing under 'Harder Choices and Easy Life'"
       }
     ],
     "work":[
       {
-        "company":"Professional Freelancing Web Developer",
-        "title":"Full-Stack Developer",
-        "years":"February 2017 - Present",
+        "company":"Self Employed",
+        "title":"Full Stack Javascript/Python Engineer",
+        "years":"2015 - Present",
         "description":""
       },
       {
-        "company":"Sunway Group",
-        "title":"Frontend Engineer",
-        "years":"August 2014 - February 2017",
-        "description":""
+        "company":"Pilot",
+        "title":"Senior Full Stack Developer",
+        "years":"Dec 2019 - Present",
+        "description":"Using Pilot, you can put your employees on locally compliant payroll in over 100 countries",
+        "description1":"- Finding a senior React/React Native developer Role as well as Technical Lead in the team",
+        "description2":"- Experience with several backend technologies and REST API to build the project infrastructure",
+        "description3":"- Open For Remote Contract"
+      },
+      {
+        "company":"PLVision",
+        "title":"Senior React Developer",
+        "years":"Oct 2017 - Jun 2019",
+        "description":"- Designed and implemented responsive websites and developed cross-platform apps",
+        "description1": "- Worked as a front-end developer to develop a customer-facing review platform by using React, D3.js GraphQL.",
+        "description2": "- Collaborated with designers, team members, and Product Owners to deliver highly scalable work",
+        "description3": "Technologies: React, Node, TypeScript, GraphQL, D3.js, AWS"
+      },
+      {
+        "company":"Bentley Systems(Singapore)Pte",
+        "title":"React Native Developer",
+        "years":"Sep 2014 - Apr 2017",
+        "description":"- Developed front-ends of applications for a variety of services.",
+        "description1": "- Designed and implemented automated email notifications, including calendar event reminders and chat message alerts.",
+        "description2": "- Implemented the new features for existing web applications",
+        "description3": "Technologies: React Native, iOS-development, Andriod Development, Typescript, React"
+
+      },
+      {
+        "company":"Active Intelligence",
+        "title":"Full Stack Developer / Angular ",
+        "years":"Feb 2013 - Jun 2014",
+        "description":"Developed an MVP from scratch based on given requirements.",
+        "description1": "- Integrated a REST API with a Javascript backend using Node",
+        "description2": "- Developed the front-end using mainly Angular.",
+        "description3": "Technologies: Angular, JavaScript, Node, Docker"
+      },
+      {
+        "company":"Accelifier",
+        "title":"Software Engineer",
+        "years":"Apr 2011 - Nov 2012",
+        "description":"- Design and implementation of new features using jQuery, Javascript, Bootstrap",
+        "description1": "- Develop RESTful web-services based on PHP/Laravel",
+        "description2": "- Release support and bugs fixing, Unit, integration and functional testing",
+        "description3": "Technologies: Javascript, Bootstrap, jQuery, PHP, Laravel"
       }
     ],
     "skills":[
       {
-        "name":"ReactJS",
+        "name":"React.js",
+        "level":"100%"
+      },
+      {
+        "name":"React Native",
+        "level":"100%"
+      },
+      {
+        "name":"Node.js",
+        "level":"100%"
+      },
+      {
+        "name":"Django",
         "level":"100%"
       },
       {
@@ -78,70 +134,80 @@
         "level":"80%"
       },
       {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
         "name":"D3",
         "level":"70%"
       },
       {
-        "name":"Angular",
-        "level":"70%"
+        "name":"GraphQL",
+        "level":"80%"
       },
       {
-        "name":"NodeJS",
+        "name":"Firebase",
         "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"70%"
       },
       {
         "name":"AWS",
         "level":"70%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"SmileConnect",
-        "category":"Canadian Dental Service",
+        "title":"Business App - Emproveit",
+        "category":"MERN Application",
         "image":"image (1).png",
-        "url":"https://smileconnect.co"
+        "url":"https://emproveit.com/"
       },
       {
-        "title":"WaypointBuilding",
-        "category":"Real Estate Saas Web Application",
-        "image":"image (4).png",
-        "url":"https://waypointbuilding.com/"
+        "title":"Haven - Your World. Kept Private",
+        "category":"React Native / iOS, Android App",
+        "image":"image (2).jpg",
+        "url":"https://gethaven.app/"
       },
       {
-        "title":"SpendWell",
-        "category":"(MVP Only) Website for donating organizations",
-        "image":"image (2).png",
-        "url":"https://app.spendwellapp.com/"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"image (5).png",
-        "url":"https://muhmmadariff.netlify.com/"
-      },
-      {
-        "title":"SponserPulse",
-        "category":"The most comprehensive sponsorship intelligence platform",
+        "title":"Education App",
+        "category":"Web and Mobile Development using React/React Native techs",
         "image":"image (3).png",
-        "url":"https://www.sponsorpulseimi.com/"
+        "url":"https://www.mhighpoint.com/"
+      },
+      {
+        "title":"Internal Design App - Modsy",
+        "category":"MERN Application",
+        "image":"image (4).png",
+        "url":"https://www.modsy.com/"
+      },
+      {
+        "title":"PrimeClub - Django, React based E-Commerce App",
+        "category":"PrimeClub is the first e-Commerce platform in Peru that brings together the best products and services on a single website.",
+        "image":"image (5).png",
+        "url":"https://www.primeclub.pe/"
+      },
+      {
+        "title":"ECOMI Collect",
+        "category":"ECOMI Collect is an app that allows users to buy, sell and trade premium licensed digital collectibles",
+        "image":"image (6).png",
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Thank so much for you quick and quality work!",
-        "user":"Alex Holt - Direct of Engineering, WaypointBuilding"
+        "text":"Giacomo has an incredible mind for product architecture and business development. It is difficult to find someone who can master an understanding of code, perfect financial models, and pitch an entire company all at the same time. He is also a former professional software engineer with big experience!",
+        "user":"Henri Nicolas - Worked at HDPE Closures Department @ Co-Founder LDOC, Universidad Simón"
       },
       {
-        "text":"Ariff must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Dami Dina - Product Manager, SmileConnect"
+        "text":"Giacomo Li has a great attitude and always professional. Great Team member with a long time journey under successful career",
+        "user":"Alexis Yan Li - Product Manager @Accelifier"
       }
     ]
   }

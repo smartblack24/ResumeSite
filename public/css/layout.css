@@ -505,6 +505,9 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 0;
 }
 
+.portfoilo-columns {
+   width: 33% !important;
+}
 /* on hover */
 .portfolio-item:hover .overlay {
 	opacity: 1;
@@ -820,7 +823,7 @@ call-to-action .button {
 }
 
 .item-wrap a img {
-   height: 130px;
+   height: 180px;
    width: 100%;
 }
 

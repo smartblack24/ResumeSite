@@ -1420,7 +1420,7 @@ readers do not read off random characters that represent icons */
   content: "\f1d1"; }
 
 .fa-envelope:before {
-  content: "\f0e0"; }
+  content: "\f0e0" !important; }
 
 .fa-envelope-open:before {
   content: "\f2b6"; }
