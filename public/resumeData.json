@@ -12,7 +12,7 @@
     "email": "giacomotag96@gmail.com",
     "phone": "",
     "address":{
-      "street":"NO 12 BLOCK B SECTION 92A, JLN 1/89B OFF JALAN BESI", 
+      "street":"76 Meandering Trail Scarborough", 
       "city":"Toronto",
       "state":"Ontario, Canada",
       "zip": "57100"
@@ -28,7 +28,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/donicrazy",
+        "url":"https://github.com/giacomoli",
         "className":"fab fa-github"
       },
       {
