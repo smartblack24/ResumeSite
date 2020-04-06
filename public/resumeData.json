@@ -32,11 +32,6 @@
         "className":"fab fa-github"
       },
       {
-        "name":"codesignal",
-        "url":"https://app.codesignal.com/profile/giacomo_l3",
-        "className":"fa fa-code"
-      },
-      {
         "name":"skype",
         "url":"https://join.skype.com/invite/ckOe0qZE5P4V",
         "className":"fab fa-skype"
@@ -85,7 +80,7 @@
       },
       {
         "company":"Bentley Systems(Singapore)Pte",
-        "title":"React Native Developer",
+        "title":"Senior React Native Developer",
         "years":"Sep 2014 - Apr 2017",
         "description":"- Developed front-ends of applications for a variety of services.",
         "description1": "- Designed and implemented automated email notifications, including calendar event reminders and chat message alerts.",
@@ -162,6 +157,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"E-Learning Platform - Create&Learn ",
+        "category":"Greatest Online Learning Platform Using React, Node, Next.js, GraphQL, Zoom Api",
+        "image":"image (6).png",
+        "url":"https://www.create-learn.us/"
+      },
+      {
         "title":"Business App - Emproveit",
         "category":"MERN Application",
         "image":"image (1).png",
@@ -186,16 +187,10 @@
         "url":"https://www.modsy.com/"
       },
       {
-        "title":"PrimeClub - Django, React based E-Commerce App",
-        "category":"PrimeClub is the first e-Commerce platform in Peru that brings together the best products and services on a single website.",
+        "title":"StoryTree - Django, React Native based Social App",
+        "category":"StoryTree is social networking app that makes relatives be in touch with their loved ones in an easy way.",
         "image":"image (5).png",
-        "url":"https://www.primeclub.pe/"
-      },
-      {
-        "title":"ECOMI Collect",
-        "category":"ECOMI Collect is an app that allows users to buy, sell and trade premium licensed digital collectibles",
-        "image":"image (6).png",
-        "url":""
+        "url":"https://getsimpleprints.com/"
       }
     ]
   },
