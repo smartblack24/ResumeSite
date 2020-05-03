@@ -125,6 +125,10 @@
         "level":"100%"
       },
       {
+        "name":"Next.js",
+        "level":"100%"
+      },
+      {
         "name":"Django",
         "level":"100%"
       },
@@ -134,7 +138,11 @@
       },
       {
         "name":"Angular",
-        "level":"80%"
+        "level":"90%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"70%"
       },
       {
         "name":"D3",
@@ -142,7 +150,7 @@
       },
       {
         "name":"GraphQL",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Firebase",
