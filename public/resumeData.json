@@ -1,21 +1,14 @@
-{
+﻿{
   "main": {
     "name":"Giacomo Li",
     "occupation":"Senior Full-Stack Engineer",
     "description":"",
     "image":"profilepic.jpeg",
-<<<<<<< HEAD
     "bio":"I am an experienced web and mobile developer with 11 years of work experience in web/mobile development.",
     "bio1":"As a Top-notch web and mobile developer, I have high skills in modern javascript frameworks such as React, Angular, Vue. Moreover, I love building a production-level iOS/Android apps using React Native. In addition to building high-performance, beautiful frontend, I am also familiar with building the well-structured backend using Node, Django, GraphQL, Firebase.",
     "bio2":"I follow the Steve Jobs quote 'Stay Hungry, Stay Foolish' and that makes me build successful results in my career. 'Stay Hungry' to try out new ideas, technologies and to innovate continuously. 'Staying foolish' to know that there is always scope for improvement and try hard to win at business marketing and engaging better with visitors.",
     "bio3":"My main goal is to make good prospects for the company by working properly, professionally and efficiently. After many years of working under different situations, I have developed the skills required to effectively communicate, plan and manage projects. I maintain a healthy balance between user satisfaction and code quality in every project.",
     "bio4": "I love working with great people, inspiring others, and being inspired.",
-=======
-    "bio":"I am an experienced web and mobile developer with 10 years of work experience in web/mobile development",
-    "bio1":"As a senior front-end web developer, I have high skills in modern javascript frameworks such as React, Angular, Vue, and I have 5+ years of experience with React/React Native. Moreover, I can build a production-level iOS/Android app using React Native. In addition to building the frontend, I am also familiar with building the well-designed backend using Node, Django, GraphQL, Firebase.",
-    "bio2":"My main goal is to make good prospects for the company by working properly, professionally and efficiently. After many years of working under different situations, I have developed the skills required to effectively communicate, plan and manage projects. I maintain a healthy balance between user satisfaction and code quality in every project. While I built the project as a team member, I collaborate closely with other team members to plan, design, and develop robust solutions and also work flexibly in different time zone. I want to be involved in projects that I can be proud of and advance my development career.",
-    "bio3":"I want to be involved in projects that I can be proud of and advance my development career.",
->>>>>>> 2323382e2dfbc0914e6225f12aff4c8ecd245a7c
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "giacomotag96@gmail.com",
     "phone": "",
@@ -27,7 +20,7 @@
     },
     "templateId": "template_0FHEgYVn",
     "website": "https://giacomo.li.com/",
-    "resumedownload":"https://app.enhancv.com/share/596e34f7?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
+    "resumedownload":"https://drive.google.com/file/d/1JyXkiW-1wgsZ3mqi_r7UJv7NY2pgGpWc/view",
     "social":[
       {
         "name":"linkedin",
@@ -64,54 +57,38 @@
     "work":[
       {
         "company":"Self Employed",
-        "title":"Full Stack Javascript/Python Engineer",
+        "title":"Senior Javascript/Python Engineer",
         "years":"2015 - Present",
-        "description":""
+        "description": "- I enjoy bringing value to clients via eCommerce solutions, legacy integrations, and optimized Python and JavaScript-driven applications.",
+        "description1": "- I have built many complex world-class products from start to finish, making every project he works on a success story.",
+        "description2": "- On a personal level, I am a good communicator and teammate and I utilize my experience and maturity in order to produce good outcomes in a project.",
+        "description3": "Technologies: Using the number of technologies varying from Node.js, React/React Native to Angular, Vue, Electron, Django, Flask, RoR and many more"
       },
       {
         "company":"Pilot",
         "title":"Senior Full Stack Developer",
         "years":"Dec 2019 - Present",
-<<<<<<< HEAD
         "description":"- Currently Looking For Full-Time Remote Contract",
         "description1":"- Built the foundations of a web components library to integrate into the client's web applications mainly using JavaScript/Typescript technologies and some of Python/Django framework.",
         "description2":"- Ensured that the library is lightweight, easy to extend and maintain.",
         "description3":"Technologies: React, React Native, Node, Django, Angular, Vue, GraphQL, Next.js, Laravel, Gatsby.js"
-=======
-        "description":"Pilot is a software agency that matches developers to clients all over the world.",
-        "description1":"- Currently Looking For Full-Time Remote Contract",
-        "description2":"- Finding a senior React/React Native developer Role as well as Technical Lead in the team",
-        "description3":"Technologies: React, React Native, Node, Django, Angular, Vue, GraphQL, Next.js, Laravel"
->>>>>>> 2323382e2dfbc0914e6225f12aff4c8ecd245a7c
       },
       {
         "company":"PLVision",
         "title":"Senior React Developer",
         "years":"Oct 2017 - Jun 2019",
         "description":"- Designed and implemented responsive websites and developed cross-platform apps",
-<<<<<<< HEAD
         "description1": "- Developed a real-time trading graph using D3.js which has tickers for seven days, one day, one hour, and instant; built it all from scratch.",
         "description2": "- Customize the Serverless/AWS project depends on Gatsby.js and Next.js",
         "description3": "Technologies: React, Node, TypeScript, GraphQL, D3.js, Puppeteer, Gatsby.js, Next.js, AWS Lambda, Gatsby.js"
-=======
-        "description1": "- Worked as a front-end developer to develop a customer-facing review platform by using React, D3.js GraphQL.",
-        "description2": "- Collaborated with designers, team members, and Product Owners to deliver highly scalable work",
-        "description3": "Technologies: React, Node, TypeScript, GraphQL, D3.js, AWS"
->>>>>>> 2323382e2dfbc0914e6225f12aff4c8ecd245a7c
       },
       {
         "company":"Bentley Systems(Singapore)Pte",
         "title":"Senior React Native Developer",
         "years":"Sep 2014 - Apr 2017",
-<<<<<<< HEAD
         "description":"-Designed the entire mobile application to be able to function offline for long periods of time and sync data back once in cell reception.",
         "description1": "- Developed front-end applications for a variety of services and integrated native SDKs using React Native.",
         "description2": "- Integrated analytics, push notifications, and various other libraries to understand user behavior and iterated on it.",
-=======
-        "description":"- Developed front-ends of applications for a variety of services.",
-        "description1": "- Designed and implemented automated email notifications, including calendar event reminders and chat message alerts.",
-        "description2": "- Implemented the new features for existing web applications",
->>>>>>> 2323382e2dfbc0914e6225f12aff4c8ecd245a7c
         "description3": "Technologies: React Native, iOS-development, Andriod Development, Typescript, React"
 
       },
@@ -122,11 +99,7 @@
         "description":"Developed an MVP from scratch based on given requirements.",
         "description1": "- Integrated a REST API with a Javascript backend using Node",
         "description2": "- Developed the front-end using mainly Angular.",
-<<<<<<< HEAD
         "description3": "Technologies: Angular, JavaScript, Node, Docker, CS Modules, Webpack, WebSocket"
-=======
-        "description3": "Technologies: Angular, JavaScript, Node, Docker"
->>>>>>> 2323382e2dfbc0914e6225f12aff4c8ecd245a7c
       },
       {
         "company":"Accelifier",
