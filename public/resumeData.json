@@ -59,10 +59,10 @@
         "company":"Self Employed",
         "title":"Senior Javascript/Python Engineer",
         "years":"2015 - Present",
-        "description": "- I enjoy bringing value to clients via eCommerce solutions, legacy integrations, and optimized Python and JavaScript-driven applications.",
-        "description1": "- I have built many complex world-class products from start to finish, making every project he works on a success story.",
+        "description": "- Enjoy bringing value to clients via eCommerce solutions, legacy integrations, and optimized Python and JavaScript-driven applications.",
+        "description1": "- Have built many complex world-class products from start to finish, making every project I work on a success story.",
         "description2": "- On a personal level, I am a good communicator and teammate and I utilize my experience and maturity in order to produce good outcomes in a project.",
-        "description3": "Technologies: Using the number of technologies varying from Node.js, React/React Native to Angular, Vue, Electron, Django, Flask, RoR and many more"
+        "description3": "Technologies: React/React Native, Angular, Vue, Node.js, Next.js, Gatsby.js, Django, Sentry, Mocha, Puppeteer, Laravel"
       },
       {
         "company":"Pilot",
@@ -84,17 +84,16 @@
       },
       {
         "company":"Bentley Systems(Singapore)Pte",
-        "title":"Senior React Native Developer",
+        "title":"Lead React Native Developer",
         "years":"Sep 2014 - Apr 2017",
         "description":"-Designed the entire mobile application to be able to function offline for long periods of time and sync data back once in cell reception.",
-        "description1": "- Developed front-end applications for a variety of services and integrated native SDKs using React Native.",
-        "description2": "- Integrated analytics, push notifications, and various other libraries to understand user behavior and iterated on it.",
-        "description3": "Technologies: React Native, iOS-development, Andriod Development, Typescript, React"
-
+        "description1": "- Developed front-end mobile applications for a variety of services and integrated native SDKs using React Native and built SPAs, PWAs using React and Redux",
+        "description2": "- Re-architecting the product using 100% JavaScript (Node.js, React, and React Native), where every engineer is a full-stack one and can work on any portion of the system.",
+        "description3": "Technologies: React Native, GraphQL/Apollo, Typescript, React, Redux, Ionic Framework, iOS-development, Mocha, Sentry"
       },
       {
         "company":"Active Intelligence",
-        "title":"Full Stack Developer / Angular ",
+        "title":"Full Stack Developer / MEAN focus ",
         "years":"Feb 2013 - Jun 2014",
         "description":"Developed an MVP from scratch based on given requirements.",
         "description1": "- Integrated a REST API with a Javascript backend using Node",
@@ -150,6 +149,10 @@
       },
       {
         "name":"GraphQL",
+        "level":"90%"
+      },
+      {
+        "name":"Laravel",
         "level":"90%"
       },
       {
