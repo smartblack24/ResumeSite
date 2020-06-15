@@ -24,7 +24,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/giacomo-li-45274118b/",
+        "url":"https://www.linkedin.com/in/giacomoli/",
         "className":"fab fa-linkedin"
       },
       {
@@ -60,17 +60,16 @@
         "title":"Senior Javascript/Python Engineer",
         "years":"2015 - Present",
         "description": "- Enjoy bringing value to clients via eCommerce solutions, legacy integrations, and optimized Python and JavaScript-driven applications.",
-        "description1": "- Have built many complex world-class products from start to finish, making every project I work on a success story.",
-        "description2": "- On a personal level, I am a good communicator and teammate and I utilize my experience and maturity in order to produce good outcomes in a project.",
-        "description3": "Technologies: React/React Native, Angular, Vue, Node.js, Next.js, Gatsby.js, Django, Sentry, Mocha, Puppeteer, Laravel"
+        "description1": "- Have worked on various industries including eLearning Platform, eCommerce Platform, Insurance Marketplace, Real Estate & Construction Platforms",
+        "description2": "Technologies: React/React Native, Angular, Vue, Node.js, Next.js, Gatsby.js, Django, Sentry, Mocha, Puppeteer, Laravel"
       },
       {
         "company":"Pilot",
         "title":"Senior Full Stack Developer",
         "years":"Dec 2019 - Present",
         "description":"- Currently Looking For Full-Time Remote Contract",
-        "description1":"- Built the foundations of a web components library to integrate into the client's web applications mainly using JavaScript/Typescript technologies and some of Python/Django framework.",
-        "description2":"- Ensured that the library is lightweight, easy to extend and maintain.",
+        "description1":"- Helping start-ups and small to medium business providing full stack web and mobile development solutions using JavaScript/Typescript technologies(Django plus)",
+        "description2":"- Place a high priority on customer satisfaction, easy to work with, and comfortable in agile environments.",
         "description3":"Technologies: React, React Native, Node, Django, Angular, Vue, GraphQL, Next.js, Laravel, Gatsby.js"
       },
       {
