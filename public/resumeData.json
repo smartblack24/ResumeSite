@@ -56,6 +56,15 @@
     ],
     "work":[
       {
+        "company":"Create & Learn",
+        "title":"Senior Full Stack Developer",
+        "years":"Jan 2020 - Present",
+        "description": "- Worked as a senior Full stack developer to build E-Learning platform using Next.js & Node.js & React.js & GraphQl Apollo",
+        "description1": "- Do Unit Test using Jest and Integration Test using Puppeteer and Cucumber",
+        "description2": "- Integrate Payment System Using Braintree and Upgrade SEO and various third-party platforms like FresDesk, Typeform, Sentry and etc",
+        "description3": "Technologies: Next.js, React.js, Node.js, GraphQl Apollo, Braintree, SEO, Material UI, Typescript"
+      },
+      {
         "company":"Self Employed",
         "title":"Senior Javascript/Python Engineer",
         "years":"2015 - Present",
